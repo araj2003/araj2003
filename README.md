@@ -34,11 +34,11 @@ Here are some of my projects that I have worked on:
 
 
 ## Competetive Programming
-<div style="display: flex;">
+
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][linkedin][linkedin]: https://leetcode.com/araj_jain/
   
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][linkedin][linkedin]: https://www.codechef.com/users/proaraj
-</div>
+
 
 
 
