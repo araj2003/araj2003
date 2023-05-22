@@ -26,7 +26,11 @@
 
 Here are some of my projects that I have worked on:
 
-- [playPortal](https://playportal.netlify.app/) - Youtube Clone
+- [playPortal](https://playportal.netlify.app/) - video streaming platform
+- [ReactFlix](https://reactflix01.netlify.app/) - watch movies and trailers
+- [BitPortal](https://main--cute-sprinkles-5427df.netlify.app/) - crypto currency site
+- [Finance Manager](https://finance-manager01.netlify.app/) - calculate your expences
+- [calculator](https://calculator-reactjs01.netlify.app/)
 
 ## Contact Me
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
