@@ -34,11 +34,9 @@ Here are some of my projects that I have worked on:
 
 
 ## Competetive Programming
-<div style = "display: flex;">
-[<img align="left" alt="leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][linkedin]
 
-[leetcode]: https://leetcode.com/araj_jain/
-</div>
+[linkedin]: https://leetcode.com/araj_jain/
 
 
 ## Contact Me
