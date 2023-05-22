@@ -33,11 +33,11 @@ Here are some of my projects that I have worked on:
 - [calculator](https://calculator-reactjs01.netlify.app/)
 
 
-## Contact Me
+## Competetive Programming
 <div style = "display: flex;">
-[<img align="left" alt="leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][LeetCode]
+[<img align="left" alt="leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
-[LeetCode]: https://leetcode.com/araj_jain/
+[leetcode]: https://leetcode.com/araj_jain/
 </div>
 
 
