@@ -29,7 +29,7 @@ Here are some of my projects that I have worked on:
 - [playPortal](https://playportal.netlify.app/) - video streaming platform
 - [ReactFlix](https://reactflix01.netlify.app/) - watch movies and trailers
 - [BitPortal](https://main--cute-sprinkles-5427df.netlify.app/) - crypto currency site
-- [Finance Manager](https://finance-manager01.netlify.app/) - calculate your expences
+- [Finance Manager](https://finance-manager01.netlify.app/) - calculate your expences with voice assistance
 - [calculator](https://calculator-reactjs01.netlify.app/)
 
 ## Contact Me
