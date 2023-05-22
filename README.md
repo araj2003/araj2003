@@ -32,6 +32,12 @@ Here are some of my projects that I have worked on:
 - [Finance Manager](https://finance-manager01.netlify.app/) - calculate your expences with voice assistance
 - [calculator](https://calculator-reactjs01.netlify.app/)
 
+
+## Contact Me
+[<img align="left" alt="leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][linkedin]
+
+[LeetCode]: https://leetcode.com/araj_jain/
+
 ## Contact Me
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
